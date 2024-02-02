@@ -1,5 +1,5 @@
 <template>
-    <a href="https://your-url" class="github-corner" aria-label="View source on GitHub"
+    <a href="https://github.com/rps-code/should-i-be-sl" class="github-corner" aria-label="View source on GitHub"
         ><svg
             width="80"
             height="80"
