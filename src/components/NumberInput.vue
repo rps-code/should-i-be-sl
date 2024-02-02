@@ -31,6 +31,7 @@
                 </svg>
             </button>
         </div>
+        <p v-if="number === 69" class="absolute text-xs mt-1 text-gray-400">Nice.</p>
     </div>
 </template>
 
