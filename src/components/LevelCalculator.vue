@@ -39,7 +39,7 @@
     const messages = computed(() => {
         const msgs = []
 
-        if (!mic.value) msgs.push('You need a mic.')
+        if (!mic.value) msgs.push('You need to use your mic and communicate.')
 
         if (hours.value < 25) msgs.push('You need more game exposure.')
 
