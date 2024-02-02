@@ -17,13 +17,13 @@
         </div>
 
         <div v-if="messages.length">
-            <p class="text-red-500 text-lg font-bold">You cannot be a SL as:</p>
+            <p class="text-red-500 text-lg font-bold">You shouldn't be an SL as:</p>
             <ul class="text-white list-disc !pl-5">
                 <li v-for="message in messages" :key="message">{{ message }}</li>
             </ul>
         </div>
         <div v-else class="text-green-500 text-lg font-bold">
-            <p>You can be a SL!</p>
+            <p>You're fine being an SL!</p>
         </div>
     </main>
 </template>

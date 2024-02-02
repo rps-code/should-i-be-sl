@@ -10,6 +10,8 @@
         <p class="mt-5 text-sm text-right text-gray-500">
             <a href="https://discordapp.com/users/292432182557933588/">Created with ❤️ by <span class="underline">rps</span></a>
         </p>
+
+        <p class="absolute left-0 bottom-0 p-1 text-xs text-gray-600">If your name is DadsDoGamingToo you shouldn't be SL.</p>
     </main>
 </template>
 
